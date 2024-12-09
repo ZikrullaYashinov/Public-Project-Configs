@@ -1,0 +1,18 @@
+{
+    "api": {
+        "api": "",
+        "version": 1,
+        "description": "Beta 1"
+    },
+    "debugApi": {
+        "api": "",
+        "version": 1,
+        "description": "Alpha 1"
+    },
+    "update": {
+        "version": 1,
+        "version_name": "1.0.0 (beta)",
+        "message": "",
+        "url": ""
+    }
+}
