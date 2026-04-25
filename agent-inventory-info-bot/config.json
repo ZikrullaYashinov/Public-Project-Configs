@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "telegramId": 6234035139,
+      "name": "Zikrulla",
+      "role": "USER",
+      "language": "uz"
+    },
+    {
+      "telegramId": 2597549,
+      "name": "Gayratjon",
+      "role": "ADMIN",
+      "language": "uz"
+    }
+  ]
+}
