@@ -1,10 +1,26 @@
-{
-  "users": [
-    {
-      "telegramId": 2597549,
-      "name": "Gayratjon",
-      "role": "ADMIN",
-      "language": "uz"
-    }
-  ]
-}
+[
+  {
+    "chatId": 543560094,
+    "language": "uz",
+    "name": "Valixon",
+    "role": "ADMIN"
+  },
+  {
+    "chatId": 6234035139,
+    "language": "uz",
+    "name": "Zikrulla",
+    "role": "ADMIN"
+  },
+  {
+    "chatId": 2597549,
+    "language": "uz",
+    "name": "Gayratjon",
+    "role": "ADMIN"
+  },
+  {
+    "chatId": 987654321,
+    "language": "ru",
+    "name": "Sasha",
+    "role": "USER"
+  }
+]
